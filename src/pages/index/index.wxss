@@ -1,5 +1,5 @@
 /**index.wxss**/
 page{
   background-color: #F0FFFF ;
-  background-image: url('https://github.com/guobosco/Wechat-My-HIT-Story/blob/master/src/images/backgroundmini.png?raw=true');
+  background-image: url('https://github.com/guobosco/Wechat-My-HIT-Story/blob/master/src/images/background.png?raw=true');
 }
