@@ -1,1 +1,4 @@
 <!--index.wxml-->
+<view class='indexpage'>
+  <image class='indeximage'  src="{{src}}"></image>
+</view>

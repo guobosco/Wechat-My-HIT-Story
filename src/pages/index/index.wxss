@@ -1,5 +1,17 @@
 /**index.wxss**/
 page{
   background-color: #F0FFFF ;
-  background-image: url('https://github.com/guobosco/Wechat-My-HIT-Story/blob/master/src/images/background.png?raw=true');
+  background-image: url('https://github.com/guobosco/Wechat-My-HIT-Story/blob/master/src/images/backgroundmini.png?raw=true');
+}
+.indexpage{
+
+}
+.indeximage{
+  width: 600rpx;
+  height: 450rpx;
+  src: "{{src}}";
+  text-align: center;
+  position:absolute;
+  left:10%;
+  top: 12%
 }
