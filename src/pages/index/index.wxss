@@ -1,0 +1,6 @@
+/**index.wxss**/
+page{
+  background-color: #F0FFFF ;
+  background-image: url('../../images/background.png');
+
+}

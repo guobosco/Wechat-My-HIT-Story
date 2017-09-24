@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"#eeeeee",
+    "navigationBarBackgroundColor": "#008080",
+    "navigationBarTitleText": "我的HIT故事",
+    "navigationBarTextStyle":"white"
+  }
+
+}
